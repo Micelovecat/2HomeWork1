@@ -18,5 +18,5 @@ public class Main {
         for (Transport vehicle : vehicles) {
             station.check(vehicle);
         }
-    }
+            }
 }
